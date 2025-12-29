@@ -39,7 +39,7 @@ We achieved a high-budget 3D feel using purely 2D technologies.
 
 ### 1. Clone the Repository
 ```
-git clone [https://github.com/yourusername/reflect.git](https://github.com/yourusername/reflect.git)
+git clone https://github.com/abk700007/Reflect.git
 cd reflect
 ```
 ### 2. Install Dependencies
